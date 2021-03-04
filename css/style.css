@@ -153,8 +153,8 @@ p {
 }
 
 span {
-    color: grey;
-    text-shadow: 2px 2px antiquewhite;
+    color: green;
+    text-shadow: 2px 2px black;
 }
 
 @media (max-width:500px) {
